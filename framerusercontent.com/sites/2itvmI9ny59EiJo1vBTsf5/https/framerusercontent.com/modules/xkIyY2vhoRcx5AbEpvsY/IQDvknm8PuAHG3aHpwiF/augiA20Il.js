@@ -1036,7 +1036,7 @@ const Component = /*#__PURE__*/ React.forwardRef(function (props, ref) {
                     }),
                     /*#__PURE__*/
                     _jsx(Link, {
-                      href: "https://dexscreener.com/bsc/0xcomingsoon",
+                      href: "https://dexscreener.com/bsc/0x0939ad8d1f053c5c060b64a24669e849e3060911",
                       motionChild: true,
                       nodeId: "OBYT6RHcq",
                       openInNewTab: true,
